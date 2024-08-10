@@ -16,7 +16,7 @@ const Marathi = () => {
             </div>
             <div className="container mx-auto h-auto flex flex-col md:flex-row justify-center md:space-x-8 mt-12 space-y-12 md:space-y-0 mb-8">
                 <div className="w-full max-w-sm">
-                    <div className="card bg-yellow-50 border-4 border-yellow-300 rounded-lg shadow-xl">
+                    <div className="card bg-yellow-50 border-4 border-yellow-300 rounded-lg shadow-xl transform hover:scale-105 transition duration-300">
                         <figure>
                             <img
                                 src="https://img.freepik.com/free-photo/education-day-scene-fantasy-style-aesthetic_23-2151040272.jpg?ga=GA1.1.1129495211.1714569937&semt=ais_hybrid"
@@ -33,7 +33,7 @@ const Marathi = () => {
                     </div>
                 </div>
                 <div className="w-full max-w-sm">
-                    <div className="card bg-yellow-50 border-4 border-yellow-300 rounded-lg shadow-xl">
+                    <div className="card bg-yellow-50 border-4 border-yellow-300 rounded-lg shadow-xl transform hover:scale-105 transition duration-300">
                         <figure>
                             <img
                                 src="https://img.freepik.com/premium-photo/hindi-diwas-concept-tree-with-open-book_1133491-5.jpg?ga=GA1.1.1129495211.1714569937&semt=sph"
@@ -50,7 +50,7 @@ const Marathi = () => {
                     </div>
                 </div>
                 <div className="w-full max-w-sm">
-                    <div className="card bg-yellow-50 border-4 border-yellow-300 rounded-lg shadow-xl">
+                    <div className="card bg-yellow-50 border-4 border-yellow-300 rounded-lg shadow-xl transform hover:scale-105 transition duration-300">
                         <figure>
                             <img
                                 src="https://img.freepik.com/premium-photo/happy-cute-kid-boy-singing-song_1240525-38837.jpg?ga=GA1.1.1129495211.1714569937&semt=ais_hybrid"

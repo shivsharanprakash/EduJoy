@@ -16,7 +16,7 @@ const English = () => {
             </div>
             <div className="container mx-auto h-auto flex flex-col md:flex-row justify-center md:space-x-8 mt-12 space-y-12 md:space-y-0 mb-8">
                 <div className="w-full max-w-sm">
-                    <div className="card bg-yellow-50 border-4 border-yellow-300 rounded-lg shadow-xl">
+                    <div className="card bg-yellow-50 border-4 border-yellow-300 rounded-lg shadow-xl transform hover:scale-105 transition duration-300">
                         <figure>
                             <img
                                 src="https://img.freepik.com/free-vector/kids-reading-books-concept_52683-37430.jpg"
@@ -33,7 +33,7 @@ const English = () => {
                     </div>
                 </div>
                 <div className="w-full max-w-sm">
-                    <div className="card bg-yellow-50 border-4 border-yellow-300 rounded-lg shadow-xl">
+                    <div className="card bg-yellow-50 border-4 border-yellow-300 rounded-lg shadow-xl transform hover:scale-105 transition duration-300">
                         <figure>
                             <img
                                 src="https://img.freepik.com/free-vector/alphabet-abc-english-text-kids_74855-6540.jpg"
@@ -50,7 +50,7 @@ const English = () => {
                     </div>
                 </div>
                 <div className="w-full max-w-sm">
-                    <div className="card bg-yellow-50 border-4 border-yellow-300 rounded-lg shadow-xl">
+                    <div className="card bg-yellow-50 border-4 border-yellow-300 rounded-lg shadow-xl transform hover:scale-105 transition duration-300">
                         <figure>
                             <img
                                 src="https://img.freepik.com/free-vector/children-singing-songs_52683-37015.jpg"

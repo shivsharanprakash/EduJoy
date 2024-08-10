@@ -21,7 +21,7 @@ const Arts = () => {
                             />
                         </figure>
                         <div className="p-6">
-                            <h2 className="card-title text-center text-4xl font-baloo text-pink-600 mt-4">Drawing and Coloring</h2>
+                            <h2 className=" text-center text-4xl font-comic-neue text-pink-600 mt-4">Drawing and Coloring</h2>
                             <div className="card-actions justify-center mt-6">
                                 <a href="https://www.crayola.com/free-coloring-pages/" className="btn bg-gradient-to-r from-pink-400 to-pink-600 text-white w-full font-baloo text-xl hover:from-pink-600 hover:to-pink-800">Explore</a>
                             </div>
@@ -38,7 +38,7 @@ const Arts = () => {
                             />
                         </figure>
                         <div className="p-6">
-                            <h2 className="card-title text-center text-4xl font-baloo text-green-600 mt-4">Crafts</h2>
+                            <h2 className=" text-center text-4xl font-comic-neue text-green-600 mt-4">Crafts</h2>
                             <div className="card-actions justify-center mt-6">
                                 <a href="https://www.kidspot.com.au/things-to-do/activity-type/craft" className="btn bg-gradient-to-r from-green-400 to-green-600 text-white w-full font-baloo text-xl hover:from-green-600 hover:to-green-800">Create</a>
                             </div>
@@ -55,7 +55,7 @@ const Arts = () => {
                             />
                         </figure>
                         <div className="p-6">
-                            <h2 className="card-title text-center text-4xl font-baloo text-purple-600 mt-4">Music and Dance</h2>
+                            <h2 className="  text-center text-4xl font-comic-neue text-purple-600 mt-4">Music and Dance</h2>
                             <div className="card-actions justify-center mt-6">
                                 <a href="https://www.kidsongs.com/" className="btn bg-gradient-to-r from-purple-400 to-purple-600 text-white w-full font-baloo text-xl hover:from-purple-600 hover:to-purple-800">Listen and Move</a>
                             </div>

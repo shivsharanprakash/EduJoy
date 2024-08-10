@@ -7,7 +7,7 @@ import Gifts from './Pages/Gifts';
 import Maths from './Pages/Maths';
 import Science from './Pages/Science';
 import Arts from './Pages/Arts';
-import Geoprahy from './Pages/Geoprahy';
+import Geography from './Pages/Geography';
 import Hindi from './Pages/Hindi';
 import English from './Pages/English';
 import Marathi from './Pages/Marathi';
@@ -39,7 +39,7 @@ const App = () => {
       <Route path="/subject/maths" element={<Maths />} />
       <Route path="/subject/science" element={<Science />} />
       <Route path="/subject/arts" element={<Arts />} />
-      <Route path="/subject/geography" element={<Geoprahy />} />
+      <Route path="/subject/geography" element={<Geography />} />
       <Route path="/language/hindi" element={<Hindi />} />
       <Route path="/language/english" element={<English />} />
       <Route path="/language/marathi" element={<Marathi />} />

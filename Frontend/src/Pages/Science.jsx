@@ -21,7 +21,7 @@ const Science = () => {
                             />
                         </figure>
                         <div className="p-6">
-                            <h2 className="card-title text-center text-4xl font-baloo text-blue-600 mt-4">Watch Lectures!</h2>
+                            <h2 className="font-semibold  text-center text-4xl font-baloo text-blue-600 mt-4">Watch Lectures!</h2>
                             <div className="card-actions justify-center mt-6">
                                 <a href="https://www.youtube.com/watch?v=AHQGNb0zBgg" className="btn bg-gradient-to-r from-blue-400 to-blue-600 text-white w-full font-baloo text-xl hover:from-blue-600 hover:to-blue-800">Watch</a>
                             </div>
@@ -38,7 +38,7 @@ const Science = () => {
                             />
                         </figure>
                         <div className="p-6">
-                            <h2 className="card-title text-center text-4xl font-baloo text-green-600 mt-4">Experiments</h2>
+                            <h2 className="font-semibold  text-center text-4xl font-baloo text-green-600 mt-4">Experiments</h2>
                             <div className="card-actions justify-center mt-6">
                                 <a href="https://www.goodhousekeeping.com/life/parenting/g32176446/science-experiments-for-kids/" className="btn bg-gradient-to-r from-green-400 to-green-600 text-white w-full font-baloo text-xl hover:from-green-600 hover:to-green-800">See More</a>
                             </div>
@@ -55,7 +55,7 @@ const Science = () => {
                             />
                         </figure>
                         <div className="p-6">
-                            <h2 className="card-title text-center text-4xl font-baloo text-red-600 mt-4">Get Notes!</h2>
+                            <h2 className="font-semibold  text-center text-4xl font-baloo text-red-600 mt-4">Get Notes!</h2>
                             <div className="card-actions justify-center mt-6">
                                 <a href="https://sciencenotes.org/science-notes-posts/" className="btn bg-gradient-to-r from-red-400 to-red-600 text-white w-full font-baloo text-xl hover:from-red-600 hover:to-red-800">Get</a>
                             </div>
