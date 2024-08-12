@@ -50,7 +50,7 @@ const Home = () => {
         <div className='mx-auto'>
           <div className='flex flex-row justify-between md:mx-20 mx-2'>
             <h1 className='font-semibold md:text-xl  font-baloo'>LATEST ARTICLES</h1>
-            <p className='md:text-lg font-semibold font-baloo'>See More <span className='text-sky-600 md:mr-32 underline'>Articles</span></p>
+            <p className='md:text-lg font-semibold font-baloo'>See More <span className='text-sky-600 md:mr-32 hover:underline'>Articles</span></p>
           </div>
 
           <div className='flex flex-col md:flex-row md:justify-between mt-4 space-y-8 md:space-y-0 md:mx-20 '>
@@ -60,12 +60,12 @@ const Home = () => {
               <span className='text-gray-400 text-start mx-2'>30.07.2024</span>
             </div>
             <div className='flex flex-col w-full md:w-1/3 '>
-              <img className='w-80 items-center' src="https://img.freepik.com/free-photo/kids-playing-laughing-with-carousel_1098-4055.jpg?ga=GA1.2.1129495211.1714569937&semt=ais_hybrid" alt="Article" />
+              <img className='w-80 items-center' src="https://img.freepik.com/free-vector/playground-stepping-stump-with-children_1308-106435.jpg?ga=GA1.1.1129495211.1714569937&semt=ais_hybrid" alt="Article" />
               <p className='mx-2'>Lorem ipsum, dolor voluptatem!</p>
               <span className='text-gray-400 text-start mx-2'>30.07.2024</span>
             </div>
             <div className='flex flex-col w-full md:w-1/3 '>
-              <img className='w-80 items-center' src="https://img.freepik.com/free-photo/kids-playing-laughing-with-carousel_1098-4055.jpg?ga=GA1.2.1129495211.1714569937&semt=ais_hybrid" alt="Article" />
+              <img className='w-80 items-center' src="https://img.freepik.com/premium-vector/cute-cartoon-children-playing-with-kites-grass_961875-405368.jpg?ga=GA1.1.1129495211.1714569937&semt=ais_hybrid" alt="Article" />
               <p className='mx-2'>Lorem ipsum, dolor voluptatem!</p>
               <span className='text-gray-400 text-start mx-2'>30.07.2024</span>
             </div>

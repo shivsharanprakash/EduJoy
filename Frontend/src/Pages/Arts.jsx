@@ -12,7 +12,7 @@ const Arts = () => {
             </div>
             <div className="container mx-auto h-auto flex flex-col md:flex-row justify-center md:space-x-16 mt-12 space-y-12 md:space-y-0 mb-8">
                 <div className="transform hover:scale-105 transition duration-300">
-                    <div className="card bg-white rounded-lg shadow-2xl w-96">
+                    <div className="card bg-white rounded-lg shadow-2xl w-96 ">
                         <figure className="rounded-t-lg overflow-hidden">
                             <img
                                 src="https://img.freepik.com/free-photo/portrait-girl-boy-showcasing-beautiful-friendship_23-2151537463.jpg?ga=GA1.1.1129495211.1714569937&semt=ais_hybrid"

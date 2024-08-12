@@ -1,7 +1,6 @@
 import express from 'express';
 import { connectToMongoDb } from './db.js';
 import UserRoutes from './Routes/UserRoutes.js'
-import ResourceRoute from './Routes/ResourceRoute.js'
 import QuizeRoutes from './Routes/QuizeRoutes.js'
 import ScienceRoute from './Routes/ScienceRoute.js'
 import GamesRoute from './Routes/GamesRoute.js'
@@ -16,7 +15,6 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 app.use('/user',UserRoutes);
-app.use('/resources',ResourceRoute);
 app.use('/quiz',QuizeRoutes)
 app.use('/sciencequiz',ScienceRoute);
 app.use('/games',GamesRoute);

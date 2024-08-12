@@ -182,14 +182,14 @@ const Navbar = () => {
         <div className="navbar-end space-x-2 md:space-x-5 md:mr-12 font-poppins">
           {!authUser ? (
             <button
-              className="px-4 py-2 rounded-xl bg-yellow-400 hover:bg-yellow-500 text-black font-poppins"
+              className="px-4 py-2 rounded-xl bg-yellow-400 hover:bg-yellow-500 font-semibold text-gray-800 font-poppins"
               onClick={openModal}
             >
               Login
             </button>
           ) : (
             <button
-              className=" bg-orange-500 hover:bg-orange-600 text-white px-4 py-2 rounded-xl"
+              className=" bg-orange-500 hover:bg-orange-600 text-white font-semibold  px-4 py-2 rounded-xl"
               onClick={handleLogout}
             >
               Logout
@@ -211,7 +211,7 @@ const Navbar = () => {
             </div>
           )}
           {!authUser ? (
-            <Link to="/signin" className="hidden md:block md:bg-sky-400 hover:bg-sky-500 py-2 px-4 rounded-xl text-black font-poppins">
+            <Link to="/signin" className="hidden md:block md:bg-sky-400 hover:bg-sky-500 py-2 px-4 rounded-xl text-gray-800 font-semibold font-poppins">
               Signin
             </Link>
           ) : (
